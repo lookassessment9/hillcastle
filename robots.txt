@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reiterin.rooky.codes/hillcastle26_sitemap.xml
